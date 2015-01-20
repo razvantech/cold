@@ -1,15 +1,7 @@
 Hello
 
-git add .
+git add --all
 git commit -m 'message'
 git push origin
 
-0 to bootstrap: 
-
-npm install -g yo grunt-cli bower
-
-npm install -g generator-bootstrap
-
-yo bootstrap
-
-http://blog.dbain.com/2013/05/zero-to-bootstrap-in-under-60-seconds.html
+composer insta
